@@ -3,7 +3,7 @@ Python DataScience - NYC Schools project
 
 In this project I am using data about New York City public schools to investigate the correlations between SAT scores and demographics (race, gender, etc.)
 
-Project is implemented using Jupiter Notebooks. If maps are not visualized inside notebook, you can ty to use https://nbviewer.jupyter.org/
+Project is implemented using Jupiter Notebooks. If maps are not visualized inside notebook, you can try to use https://nbviewer.jupyter.org/
 
 ### schools/
 - Folder with data.
